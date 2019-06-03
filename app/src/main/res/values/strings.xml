@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Opencv Camera</string>
+    <string name="cameraBGRButton">Câmera BGR</string>
+    <string name="cameraRGBButton">Thresholded</string>
+    <string name="cameraGButton">Cinza</string>
+    <string name="cameraCanny">Canny</string>
+    <string name="camera">Original</string>
+    <string name="cameraBlur">Blur</string>
+    <string name="cameraHSV">HSV</string>
+    <string name="cameraLAB">Câmera LAB</string>
+    <string name="cameraLUV">Câmera LUV</string>
+    <string name="cameraYUV">Câmera YUV</string>
+    <string name="cameraXYZ">Câmera XYZ</string>
+    <string name="cameraCanny2">Cinza e Canny</string>
+    <string name="FaceDetection">Face Detection</string>
+    <string name="CameraGL">Tunnel Vision</string>
+    <string name="BlueCanny">Blue Canny</string>
+    <string name="botaoMain">Abrir</string>
+</resources>
