@@ -5,7 +5,7 @@
 ### Para poder rodar a Activity FaceDetection é necessário alguns procedimentos:
 
 1. Acessar o modo Project, no menu direito.
-2. Em scr, acesse a pasta JNI
+2. Em src, acesse a pasta JNI
 3. Entre no arquivo OpenCVClass.cpp
 4. Na função detect, encontre duas strings face_cascade_name e eye_cascade_name
 5. Será necessário baixar esses dois arquivos xml
